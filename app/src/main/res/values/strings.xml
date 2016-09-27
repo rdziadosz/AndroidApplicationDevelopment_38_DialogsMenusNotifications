@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Notification Exercise</string>
+    <string name="reply_label">Search...</string>
+    <string name="label">Serach....</string>
+    <string name="title">Search in Google</string>
+    <string name="content">Enter a search term below</string>
+    <string name="success">Browser launched!</string>
+    <string name="title_activity_notification_reciever">NotificationReciever</string>
+    <string name="dialog_exit">Are you sure you want to exit?</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_title">Exit</string>
+    <string name="your_name">Write your name</string>
+    <string name="quit">Quit</string>
+    <string name="action_a">Action A</string>
+    <string name="action_b">Action B</string>
+    <string name="action_c">Action C</string>
+    <string name="action_d">Action D</string>
+</resources>
